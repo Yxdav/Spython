@@ -67,3 +67,7 @@ This simple python script shows how easily a spyware can be made with simple cod
 - You may enhance the capability of this project by adding support of SSL or even use some python magic to exfiltrate data throught a reverse SSH tunnel using the [paramiko](https://www.paramiko.org/) module
 - If user decides not to compile payload, he/she can change the *SPYTHON_HOST* and *SPYTHON_PORT* constants in  `templates/spython_tcp_template.py` and run it as a normal python script
 - Spython is currently in pre-alpha state, more features are coming soon!!
+
+---
+
+By [Yadav Sitaram](https://www.yadavsitaram.com) - Port Louis, Mauritius. More projects and writing at [yadavsitaram.com](https://www.yadavsitaram.com/#work).
